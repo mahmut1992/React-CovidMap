@@ -1,20 +1,51 @@
-# Gerekli kütüphaneler
+# 🦠 COVID-19 Data Visualization App
 
--- "@testing-library/jest-dom"
--- "@testing-library/react"
--- tailwind
--- axios
--- millify
--- react-simple-maps
--- react-router-dom
--- react-icons
--- @reduxjs/toolkit
--- react-redux
--- redux-thunk
+🔗 **This repository contains a React-based COVID-19 data visualization application. It fetches real-time data from APIs and displays global and country-specific information using an interactive world map powered by `react-simple-maps`.**
 
-# Kaynaklar
+---
 
-- Toplam verilei için : https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/playground/apiendpoint_191c58c7-a995-4024-a5ee-41043d79e542
+## 🚀 Features
 
--- detay verileri için : https://rapidapi.com/api-sports/api/covid-193/playground/apiendpoint_2feca6f0-0f58-40b7-9196-98c45c7d5083
-# React-CovidMap
+- Real-time COVID-19 data fetching via API  
+- World map visualization with selectable countries  
+- Detailed information pages for each selected country  
+- Dynamic data listing with Axios  
+- Smooth navigation between pages using React Router  
+- Full unit test coverage for all components with Jest and Testing Library  
+- Fully responsive design with Tailwind CSS  
+
+---
+
+## 🛠️ Technologies Used
+
+- React  
+- React Router DOM  
+- Redux Toolkit  
+- Redux Thunk  
+- Axios  
+- React Simple Maps  
+- Tailwind CSS  
+- Jest & Testing Library  
+- JSON Server (for mock data in development)
+
+---
+
+## 📸 App Screenshot
+
+![Zight Recording 2025-04-26 at 10 53 08 PM](https://github.com/user-attachments/assets/d7da677a-b253-41ce-bc85-e8590d09d822)
+
+
+---
+
+## 📝 Project Purpose
+
+The purpose of this project is to build a global COVID-19 data visualization platform using React.  
+It focuses on real-time API integration, world map interactions, dynamic navigation, and ensures code reliability with full unit testing.
+
+---
+
+## 📩 Contact
+
+For questions or feedback:
+
+📧 **fratsbht@icloud.com**
